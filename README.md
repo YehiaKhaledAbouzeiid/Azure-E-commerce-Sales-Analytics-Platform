@@ -97,10 +97,11 @@ Comprehensive data analysis and visualization
 Implementation of machine learning forecasting
 Integration with Power BI for business reporting
 Deployment to Azure cloud platform
+```
+
 ✅ **Tips:**
 ```plaintext
 - Replace `YOUR_USERNAME` with your actual GitHub username.
 - Replace placeholder image URLs with actual image paths if you upload screenshots to your repo (e.g., `![Customer Age Distribution](images/age_distribution.png)`).
 - Add a `requirements.txt` file to your project with:
-```
 ```
